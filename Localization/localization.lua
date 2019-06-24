@@ -29,13 +29,11 @@ ECASTINGBAR_TITLE = "Configure eCastingBar"
 OUTLINE_TXT = "eCasting Bar Outline."
 MIRROR_OUTLINE_TXT = "Mirror Bar Outline."
 TARGET_OUTLINE_TXT = "Target Bar Outline."
-FOCUS_OUTLINE_TXT = "Focus Bar Outline."
 
 -- general buttons
 CASTINGBAR_CASTING_TAB      = "Casting Bar"
 CASTINGBAR_MIRROR_TAB       = "Mirror Bar"
 CASTINGBAR_TARGET_TAB       = "Target Bar"
-CASTINGBAR_FOCUS_TAB        = "Focus Bar"
 CASTINGBAR_PROFILE_TAB      = "Profiles"
 CASTINGBAR_DEFAULTS_BUTTON  = "Defaults"
 CASTINGBAR_CLOSE_BUTTON     = "Close"
@@ -65,13 +63,6 @@ CASTING_BAR_BUTTONS = {
   ["TargetBarShowDelay"] = "Show Delay",
   ["TargetBarShowSpellName"] = "Show Spell Name",
 	["TargetBarShowSpellRank"] = "Show Spell Rank",
-  ["FocusBarLocked"] = "Hide Outline",
-  ["FocusBarEnabled"] = "Enabled",
-  ["FocusBarShowTime"] = "Show Time",
-  ["FocusBarHideBorder"] = "Hide Border",
-  ["FocusBarShowDelay"] = "Show Delay",
-  ["FocusBarShowSpellName"] = "Show Spell Name",
-	["FocusBarShowSpellRank"] = "Show Spell Rank"
 }
 
 CASTINGBAR_SLIDER_WIDTH_TEXT            = "Width"
@@ -83,7 +74,6 @@ CASTINGBAR_SLIDER_ALPHA_TEXT            = "Background Alpha"
 CASTINGBAR_CASTINGBAR_TEXTURE_TEXT      = "Casting Bar Texture"
 CASTINGBAR_MIRRORBAR_TEXTURE_TEXT       = "Mirror Bar Texture"
 CASTINGBAR_TARGETBAR_TEXTURE_TEXT       = "Target Bar Texture"
-CASTINGBAR_FOCUSBAR_TEXTURE_TEXT        = "Focus Bar Texture"
 CASTINGBAR_ICON_POSITION_TEXT           = "Spell Icon Position"
 CASTINGBAR_LEFT_TEXT                    = "Left"
 CASTINGBAR_RIGHT_TEXT                   = "Right"
@@ -111,13 +101,6 @@ CASTINGBAR_COLOR_LABEL = {
   ["TargetBarTimeColor"] = "Target Time",
   ["TargetBarDelayColor"] = "Target Delay",
   ["TargetBarFlashBorderColor"] = "Target Flash Border",
-  ["FocusBarSpellColor"] = "Focus Spell",
-  ["FocusBarChannelColor"] = "Focus Channel",
-  ["FocusBarSuccessColor"] = "Focus Success",
-  ["FocusBarFailedColor"] = "Focus Failed",
-  ["FocusBarTimeColor"] = "Focus Time",
-  ["FocusBarDelayColor"] = "Focus Delay",
-  ["FocusBarFlashBorderColor"] = "Focus Flash Border",
 }
 
 
